@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 
 I am Pranay Buradkar, a third-year Information Technology student at IIIT Lucknow with a strong interest in Artificial Intelligence, Machine Learning, system design and backend services.<br>
@@ -27,3 +28,4 @@ I’m eager to collaborate on AI/ML projects, real-world NLP applications, and a
 
 [![](https://visitcount.itsvg.in/api?id=pranayyb&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
