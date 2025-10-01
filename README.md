@@ -2,13 +2,12 @@
 
 # 💫 About Me
 
-I am Pranay Buradkar, a third-year Information Technology student at IIIT Lucknow with a strong interest in Artificial Intelligence, Machine Learning, system design and backend services.<br>
-I love building intelligent and scalable applications that combine creativity with technology.<br>
+**I am Pranay Buradkar, a third-year Information Technology student at IIIT Lucknow with a strong interest in Artificial Intelligence, Machine Learning, system design and backend services.**<br>
+**I love building intelligent and scalable applications that combine creativity with technology.**<br>
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranay-buradkar-24571127b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayburadkar05@gmail.com)
-
 
 # 💻 Tech Stack
 
